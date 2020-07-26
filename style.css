@@ -1,0 +1,78 @@
+body {
+    background-image: url('data:image/jpeg;base64,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');
+    background-position: center;
+    text-align: center;
+}
+
+@font-face {
+    src: url('Fonts/AGRESSIVE.otf');
+    font-family: agg;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 62px;
+    font-family: agg;
+}
+
+.tb {
+    margin: 0px auto;
+    width: 80%;
+    color: white;
+}
+
+#data {}
+
+#data1 {
+    float: right;
+    width: 88.4%;
+    font-size: 32px;
+}
+
+#add {}
+
+#add1 {
+    float: right;
+    align-content: center;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
+
+#delete1 {
+    float: left;
+    align-content: center;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
+
+#ad1 {
+    align-content: center;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: green;
+    cursor: pointer;
+}
+
+#d1 {
+    float: left;
+    align-content: center;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: crimson;
+    cursor: pointer;
+}
+
+#data2 {
+    float: left;
+    width: 650px;
+    font-size: 24px;
+}

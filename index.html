@@ -10,27 +10,27 @@
 
 <body>
 
-    <p class="heading">To Do Application</p>
+    <div class="heading">To Do Application</div>
 
     <table id="table" class="tb">
         <tr id="list1">
             <td id="data"><input id="data1" type="text"></td>
-            <td id="add"><button id="add1">Add Task</button></td>
-            <td id="delete"><button id="delete1">Delete All</button></td>
+            <td id="add"><button id="add1" onclick="addData()">Add Task</button></td>
+            <td id="delete"><button id="delete1" onclick="deleteAll()">Delete All</button></td>
         </tr>
     </table>
+    <div>
+        <table id="table" class="tb">
+            <tr id="list">
+                <ol id="data2">
+
+                </ol>
+            </tr>
+        </table>
+    </div>
     <br>
-    <table id="table" class="tb">
-        <tr id="list">
-            <ol>
-                <td id="data2">
-                    <li>
-                        Hidsaffffaaaaaaaaaasssssssssssssssssssss
-                    </li>
-                </td>
-                <td id="add"><button id="ad1">Edit</button></td>
-                <td id="delete"><button id="d1">Delete</button></td>
-            </ol>
+
+
 
 </body>
 <script src="app.js"></script>
